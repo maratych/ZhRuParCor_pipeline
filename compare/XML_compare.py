@@ -35,15 +35,38 @@ def read_TMX(fn):
 def read_file(fn):
     return read_XML(fn) if fn.lower().endswith('.xml') else read_TMX(fn)
 
+def prep_text(s):
+    return s.replace(" ", "").lower()
+
+def compare_list(l1, l2):
+    cnt = 0
+    c1 = 0
+    c2 = 0
+    for i, sent in enumerate(l1):
+      cnt += 1
+      #print(sent[0])
+      for s2 in l2:
+        if s2[0] == sent[0]:
+          c1 += 1
+          #print(l2[i][0])
+          if s2[1] == sent[1]:
+            #print("Match!")
+            c2 += 1
+    p = float(c1) / cnt
+    r = float(c2) / cnt
+    return p, r
+
 def compare_data(f_orig, f_comp, b_ignore_spaces = True):
     langs1, t_orig = read_file(f_orig)
     #print(t_orig)
     langs2, t_trans = read_file(f_comp)
-    print(t_trans)
-    return {"status": "OK", "precision": 0, "recall": 0}
+    #print(t_trans)
+    # TODO: check languages... And other sanity stuff
+    p, r = compare_list(t_orig, t_trans)
+    return {"status": "OK", "precision": p, "recall": r}
 
 if __name__ == '__main__':
-    file_golden = 'data/sample.xml'
-    file_compare = 'data/sample1.tmx'
+    file_golden = 'data/demo_h.tmx'
+    file_compare = 'data/demo_m.tmx'
     res = compare_data(file_golden, file_compare)
     print(res)
