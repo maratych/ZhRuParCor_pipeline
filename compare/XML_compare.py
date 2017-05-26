@@ -24,11 +24,12 @@ def read_TMX(fn):
         html = fh.read()
         root = ET.XML(html)
         for parent in root.xpath('//tmx/body'):  # Search for parent elements
-            grp = []
             for tu in parent:
+                grp = []
                 for tuv in tu:
-                    grp.append(tuv.text)
-            d.append(grp)
+                    #print(tuv.tag)
+                    grp.append(tuv[0].text)
+                d.append(grp)
     return langs, d
 
 def read_file(fn):
