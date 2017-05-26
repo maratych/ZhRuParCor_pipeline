@@ -36,20 +36,22 @@ def read_file(fn):
     return read_XML(fn) if fn.lower().endswith('.xml') else read_TMX(fn)
 
 def prep_text(s):
-    return s.replace(" ", "").lower()
+    return s.replace(" ", "").lower() if type(s) == str else s
 
 def compare_list(l1, l2):
     cnt = 0
     c1 = 0
     c2 = 0
-    for i, sent in enumerate(l1):
+    for i, sent in enumerate(l2):	# sent - предложение из "нового" текста
       cnt += 1
       #print(sent[0])
-      for s2 in l2:
-        if s2[0] == sent[0]:
+      for s1 in l1:
+        # Если нашли такое же входное предложение. Если вход отличается - автоматом ошибка!
+        if prep_text(s1[0]) == prep_text(sent[0]):
           c1 += 1
           #print(l2[i][0])
-          if s2[1] == sent[1]:
+          # Если совпадаем и перевод
+          if prep_text(s1[1]) == prep_text(sent[1]):
             #print("Match!")
             c2 += 1
     p = float(c2) / c1
