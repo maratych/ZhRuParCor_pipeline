@@ -1,0 +1,924 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationdate="Thu Oct 23 23:25:07 2014"
+          srclang="en"
+          adminlang="en"
+          o-tmf="unknown"
+          segtype="sentence"
+          creationtool="Uplug"
+          creationtoolversion="unknown"
+          datatype="PlainText" />
+  <body><tu>
+      <tuv xml:lang="en"><seg>Interim report January-March, 2014</seg></tuv>
+<tuv xml:lang="et"><seg>Vahearuanne jaanuar-märts 2014 </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS, Estonia</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS, Estonia is a subsidiary of Swedbank AB (publ). </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS (Eesti) on Swedbank AB tütarettevõte. </seg></tuv></tu>
+<tu>
+      <tuv xml:lang="en"><seg>The parent company maintains its registered office in Stockholm with address Brunkebergstorg 8 105 34 Stockholm, Sweden.</seg></tuv>
+<tuv xml:lang="et"><seg>Emaettevõtte peakontor asub Rootsis aadressil Brunkebergstorg 8, 105 34 Stockholm.</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The company’s share is traded on the Nasdaq OMX Nordic exchange in Stockholm in the Nordic Large Cap segment. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AB aktsiatega kaubeldakse Stockholmis Nasdaq OMX Nordic börsil Nordic Large Cap segmendis.</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The Group offers financial services and products in the home markets Sweden, Estonia, Latvia and Lithuania.</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki grupp pakub finantstooteid ja -teenuseid oma koduturgudel Rootsis, Eestis, Lätis ja Leedus.</seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>For more information about Swedbank Group, see: http://www.swedbank.com </seg></tuv>
+<tuv xml:lang="et"><seg>Rohkem infot Swedbanki grupist: http://www.swedbank.com </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Basis for preparation</seg></tuv>
+<tuv xml:lang="et"><seg>Koostamise alus</seg></tuv> 
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS, Estonia is a fully-owned subsidiary of Swedbank AB (publ), the parent company of Swedbank Group which publishes interim reports for Swedbank Group. The interim report for the period
+January - March, 2014 is not audited. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS (Eesti) ainuaktsionär on Swedbank AB. Swedbank AB, Swedbanki grupi emafirma, avalikustab Swedbanki grupi kvartaliaruande. Käesolev vahearuanne ei ole auditeeritud. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Consolidated income statement </seg></tuv>
+<tuv xml:lang="et"><seg>Konsolideeritud kasumiaruanne </seg></tuv>
+I</tu><tu>
+      <tuv xml:lang="en"><seg>nterest income </seg></tuv>
+<tuv xml:lang="et"><seg>Intressitulud </seg></tuv>
+I</tu><tu>
+      <tuv xml:lang="en"><seg>nterest expenses</seg></tuv>
+<tuv xml:lang="et"><seg>Intressikulud </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net interest income </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas intressitulu </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Commission income </seg></tuv>
+<tuv xml:lang="et"><seg>Komisjoni- ja teenustasutulud </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Commission expenses </seg></tuv>
+<tuv xml:lang="et"><seg>Komisjoni- ja teenustasukulud </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net commissions </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas teenustasutulu </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net gains and losses on financial items at fair value </seg></tuv>
+<tuv xml:lang="et"><seg>Puhastulu õiglases väärtuses kajastatavatelt finantsinstrumentidelt </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Insurance premiums </seg></tuv>
+<tuv xml:lang="et"><seg>Kindlustuspreemiad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Insurance provisions </seg></tuv>
+<tuv xml:lang="et"><seg>Kindlustustehnilised eraldised </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net insurance</seg></tuv>
+<tuv xml:lang="et"><seg>Tulu kindlustustegevusest </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Share of profit or loss of associates </seg></tuv>
+<tuv xml:lang="et"><seg>Kapitaliosaluse meetodil arvestatud kasum (kahjum) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other income</seg></tuv>
+<tuv xml:lang="et"><seg>Mud tulud</seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>Total income </seg></tuv>
+<tuv xml:lang="et"><seg>Tulud kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Staff costs</seg></tuv>
+<tuv xml:lang="et"><seg>Personalikulud</seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>Other expenses </seg></tuv>
+<tuv xml:lang="et"><seg>Muud üldhalduskulud</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Depreciation/amortisation </seg></tuv>
+<tuv xml:lang="et"><seg>Materiaalse ja immateriaalse põhivara kulum </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total expenses</seg></tuv>
+<tuv xml:lang="et"><seg>Kulud kokku</seg></tuv>  </tu><tu>
+      <tuv xml:lang="en"><seg>Profit before impairments </seg></tuv>
+<tuv xml:lang="et"><seg>Kasum enne vara väärtuse languse kahjumeid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit impairments</seg></tuv>
+<tuv xml:lang="et"><seg>Laenukahjumid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Operating profit </seg></tuv>
+<tuv xml:lang="et"><seg>Tegevuskasum (-kahjum) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tax expense</seg></tuv>
+<tuv xml:lang="et"><seg>Tulumaks </seg></tuv>
+ 
+</tu><tu>
+      <tuv xml:lang="en"><seg>Profit for the year</seg></tuv>
+<tuv xml:lang="et"><seg>Aruandeaasta kasum (kahjum) kokku</seg></tuv> 
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total profit for the period attributable to the shareholders of Swedbank</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS-i omanike osa aruandeaasta kasumist (kahjumist) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Non-controlling interests</seg></tuv>
+<tuv xml:lang="et"><seg>Vähemusosalus </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS, Estonia – Interim report January – March 2014 </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS (Eesti)
+Vahearuanne jaanuar – märts 2014 </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Consolidated comprehensive income statement </seg></tuv>
+<tuv xml:lang="et"><seg>Konsolideeritud koondkasumiaruanne </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Profit for the period reported via income statement </seg></tuv>
+<tuv xml:lang="et"><seg>Puhaskasum kajastatuna kasumiaruandes </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Acquisition of non-controlling interest </seg></tuv>
+<tuv xml:lang="et"><seg>Vähemusosaluse omandamine </seg></tuv>
+T</tu><tu>
+      <tuv xml:lang="en"><seg>otal comprehensive income for the period, net of tax</seg></tuv>
+<tuv xml:lang="et"><seg>Maksustamisjärgne muu koondkasum  </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total comprehensive income for the period </seg></tuv>
+<tuv xml:lang="et"><seg>Koondkasum kokku </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Consolidated balance sheet </seg></tuv>
+<tuv xml:lang="et"><seg>Konsolideeritud bilanss </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Assets </seg></tuv>
+<tuv xml:lang="et"><seg>Varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash and balance with central banks </seg></tuv>
+<tuv xml:lang="et"><seg>Raha ja nõuded keskpankadele </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Loans to credit institutions </seg></tuv>
+<tuv xml:lang="et"><seg>Laenud krediidiasutustele </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Loans to the public </seg></tuv>
+<tuv xml:lang="et"><seg>Laenud klientidele </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Interest-bearing securities </seg></tuv>
+<tuv xml:lang="et"><seg>Võlakirjad ja muud intressikandvad väärtpaberid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Financial assets for which customers bear the investment risk </seg></tuv>
+<tuv xml:lang="et"><seg>Fondiosakud, mille investeerimisrisk on kliendil </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Shares and participating interests</seg></tuv>
+<tuv xml:lang="et"><seg>Aktsiad ja osalused </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Investments in associates</seg></tuv>
+<tuv xml:lang="et"><seg>Investeeringud sidusettevõtetesse </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Derivatives</seg></tuv>
+<tuv xml:lang="et"><seg>Tuletisinstrumendid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Intangible fixed assets </seg></tuv>
+<tuv xml:lang="et"><seg>Immateriaalne põhivara </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tangible assets </seg></tuv>
+<tuv xml:lang="et"><seg>Materiaalne põhivara </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Deferred tax assets </seg></tuv>
+<tuv xml:lang="et"><seg>Edasilükkunud tulumaksuvara </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other assets </seg></tuv>
+<tuv xml:lang="et"><seg>Muud varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Prepaid expenses and accrued income</seg></tuv>
+<tuv xml:lang="et"><seg>Ettemakstud tulevaste perioodide kulud ja viitlaekumised </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total assets</seg></tuv>
+<tuv xml:lang="et"><seg>Varad kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Liabilities and equity </seg></tuv>
+<tuv xml:lang="et"><seg>Kohustused ja omakapital </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Amounts owed to credit institutions</seg></tuv>
+<tuv xml:lang="et"><seg>Võlgnevus krediidiasutustele </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Deposits and borrowings from the public </seg></tuv>
+<tuv xml:lang="et"><seg>Võlgnevus klientidele: hoiused ja laenud </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Debt securities in issue </seg></tuv>
+<tuv xml:lang="et"><seg>Emiteeritud võlakirjad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Financial liabilities for which customers bear the investment risk </seg></tuv>
+<tuv xml:lang="et"><seg>Finantskohustused, mille investeerimisrisk on klientidel </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Derivatives </seg></tuv>
+<tuv xml:lang="et"><seg>Tuletisinstrumendid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Current tax liabilities </seg></tuv>
+<tuv xml:lang="et"><seg>Lühiajalised maksukohustused </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Deferred tax liabilities </seg></tuv>
+<tuv xml:lang="et"><seg>Edasilükkunud tulumaksukohustused </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other liabilities </seg></tuv>
+<tuv xml:lang="et"><seg>Muud kohustused </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Accrued expenses and prepaid income </seg></tuv>
+<tuv xml:lang="et"><seg>Viitvõlad ja ettemakstud tulud </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Provisions </seg></tuv>
+<tuv xml:lang="et"><seg>Eraldised ja kohustused kindlustustegevusest </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Subordinated liabilities</seg></tuv>
+<tuv xml:lang="et"><seg>Allutatud kohustused </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Equity</seg></tuv>
+<tuv xml:lang="et"><seg>Omakapital </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>of which non-controlling interests</seg></tuv>
+<tuv xml:lang="et"><seg>Sealhulgas vähemusosalus </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>of which equity attributable to shareholders of Swedbank</seg></tuv>
+<tuv xml:lang="et"><seg>Sealhulgas emaettevõtte omanikele kuuluv omakapital </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total liabilities and equity </seg></tuv>
+<tuv xml:lang="et"><seg>Kohustused ja omakapital kokku </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Consolidated statement of changes in equity</seg></tuv>
+<tuv xml:lang="et"><seg>Konsolideeritud omakapitali muutuste aruanne </seg></tuv>
+ 
+</tu><tu>
+      <tuv xml:lang="en"><seg>Opening balance 1 January 2013 </seg></tuv>
+<tuv xml:lang="et"><seg>Jääk perioodi alguses, 1. jaanuar 2013 </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Acquisition of non-controlling interest </seg></tuv>
+<tuv xml:lang="et"><seg>Vähemusosaluse omandamine </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Dividends paid</seg></tuv>
+<tuv xml:lang="et"><seg>Makstud dividendid </seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>Total comprehensive income for the period </seg></tuv>
+<tuv xml:lang="et"><seg>Koondkasum (-kahjum) kokku </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Closing balance 31 December 2013 </seg></tuv>
+<tuv xml:lang="et"><seg>Jääk perioodi lõpus, 31. detsember 2013 </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Opening balance 1 January 2014 </seg></tuv>
+<tuv xml:lang="et"><seg>Jääk perioodi alguses, 1. jaanuar 2014 </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Dividends paid</seg></tuv>
+<tuv xml:lang="et"><seg>Makstud dividendid </seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>Total comprehensive income for the period </seg></tuv>
+<tuv xml:lang="et"><seg>Koondkasum (-kahjum) kokku </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Consolidated cash flow statement</seg></tuv> 
+<tuv xml:lang="et"><seg>Konsolideeritud rahavoogude aruanne </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash flow from operating activities </seg></tuv>
+<tuv xml:lang="et"><seg>Rahavoog äritegevusest</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash flow from investing activities </seg></tuv>
+<tuv xml:lang="et"><seg>Rahavoog investeerimistegevusest </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash flow from financing activities </seg></tuv>
+<tuv xml:lang="et"><seg>Rahavoog finantseerimistegevusest</seg></tuv> 
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash flow for the period </seg></tuv>
+<tuv xml:lang="et"><seg>Raha ja raha ekvivalentide juurdekasv </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash and cash equivalents at the beginning of the period</seg></tuv>
+<tuv xml:lang="et"><seg>Raha ja raha ekvivalendid perioodi alguses </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Cash flow for the period</seg></tuv>
+<tuv xml:lang="et"><seg>Raha ja raha ekvivalentide netomuutus </seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>Cash and cash equivalents at the end of the period </seg></tuv>
+<tuv xml:lang="et"><seg>Raha ja raha ekvivalendid perioodi lõpus </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Overview</seg></tuv>
+<tuv xml:lang="et"><seg>Ülevaade </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Estonia’s economy was struggling in 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Eesti majandus oli 2013. aastal raskustes. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>GDP growth decelerated from 3.9% in 2012 to around 1% in 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>SKP kasv vähenes 2012. aasta 3,9%-lt ligikaudu 1%-ni. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The small growth of 2013 turned to 1.9% GPD decrease in the first quarter 2014. </seg></tuv>
+<tuv xml:lang="et"><seg>2013. aasta väike SKP kasv pöördus 2014. aasta esimeses kvartalis 1,9%-ks languseks. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>However, the decrease is largely influenced by one-off transaction with ferries in January last year that raised the comparison base. </seg></tuv>
+<tuv xml:lang="et"><seg>Samas tuleb arvestada, et tulemust mõjutas möödunud aasta jaanuaris toimunud ühekordne suurtehing laevadega, mis tõstis aastataguse võrdlusbaasi kõrgemale. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Some activity growth was seen in this spring but recent events in Russia and Ukraine warrant a cautious view on development. </seg></tuv>
+<tuv xml:lang="et"><seg>Kuigi aasta algas mõningase aktiivsuse kasvuga on hiljutised sündmused Venemaal ja Ukrainas teinud edasiste arengute suhtes ettevaatlikuks. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Estonian economy has not been affected remarkably so far. </seg></tuv>
+<tuv xml:lang="et"><seg>Seni ei ole need sündmused Eesti majandust veel oluliselt puudutanud. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The high diversification of Estonian economy and flexibility of businesses is a key to resilience under such circumstances. </seg></tuv>
+<tuv xml:lang="et"><seg> Kohaliku majanduse hajutatus ja ettevõtjate paindlikkus on nendes tingimustes äärmiselt tähtsad, et välismõjudele vastu panna. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>For more than a year now banks have been operating in low interest rate environment that has put pressure on earning capacity and forced to focus on being more efficient. </seg></tuv>
+<tuv xml:lang="et"><seg>Enam kui aasta püsinud rekordmadalad intressimäärad on avaldanud mõju pankade tulemustele ja sundinud aktiivselt tegelema efektiivsusega. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg> The changes Swedbank made to organization last year have now started to pay off. </seg></tuv>
+<tuv xml:lang="et"><seg>Tänaseks on Swedbanki organisatsioonis eelmisel aastal läbi viidud muutused hakanud end ära tasuma. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>In the first quarter 2014 the international business magazine Euromoney named Swedbank’s private banking the best in Estonia for the 2nd consecutive year. </seg></tuv>
+<tuv xml:lang="et"><seg>Esimeses kvartalis nimetas rahvusvaheline majandusajakiri Euromoney juba teist aastat järjest Swedbanki parimaks privaatpanganduse teenuse pakkujaks Eestis. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>From March Swedbank’s customers’ expiring debit cards can be replaced by post, sent free of charge to clients’ home addresses. </seg></tuv>
+<tuv xml:lang="et"><seg>Alates märtsikuust hakati välja vahetama Swedbanki klientide aeguvaid pangakaarte ning uued kaardid saadetakse klientidele koju. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>In order to raise service reliability and customer satisfaction at the same time preventing illegal card duplication, all Swedbank’s cash machines in Estonia are secured with anti-skimmer hardware from March. </seg></tuv>
+<tuv xml:lang="et"><seg>Teenuste usaldusväärsuse parandamiseks, kliendirahulolu suurendamiseks ja kaartide ebaseadusliku kopeerimise takistamiseks asuti märtsis paigaldama kõigile Swedbanki Eestis olevatele sularahaautomaatidele kaardiandmete kopeerimist mittevõimaldavaid seadmeid. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>In addition, commencing in the first quarter 2014, Swedbank has replaced 30 old cash deposit machines with new cash recycling terminals with additional cash withdrawal functionality. </seg></tuv>
+<tuv xml:lang="et"><seg>Samuti alustas Swedbank esimeses kvartalis 30 vana sularahaautomaadi väljavahetamist ning on asendanud need tänaseks uutega, mida saab kasutada nii sularaha väljavõtuks kui ka sissemakse tegemiseks. </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>First quarter 2014</seg></tuv>
+<tuv xml:lang="et"><seg>Esimene kvartal 2014 </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Compared with fourth quarter 2013 </seg></tuv>
+<tuv xml:lang="et"><seg>Võrreldes esimese kvartaliga 2013 </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Result </seg></tuv>
+<tuv xml:lang="et"><seg>Finantstulemused </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS reported a profit of EUR 49.5m in the first quarter 2014 compared with EUR 50.9m a quarter earlier. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki 2014. aasta esimese kvartali puhaskasum oli 49,5 miljonit eurot võrreldes eelmise kvartali 50,9 miljoni euroga. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>The slight profit decrease was mostly influenced by lower net credit recoveries while lower operating and tax expenses improved the result. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhaskasumi mõningase vähenemise peamiseks põhjuseks oli tagasihoidlikum krediidikahjumite vähenemise positiivne mõju, samas kui tegevus- ja maksukulude vähenemine parandasid tulemust. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total income decreased by EUR 4.0m (5 per cent) during the first quarter due to decreased other income, lower net gains and losses and seasonally decreased net commissions. </seg></tuv>
+<tuv xml:lang="et"><seg>Väiksemad muud tulud, vähenenud puhastulu finantsinstrumentidelt ja hooajaliselt väiksemad teenustasutulud vähendasid 2014. aasta esimeses kvartali tulusid kokku 4,0 miljoni euro võrra (5%). </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Despite shorter quarter net interest income increased by EUR 0.1m (0.2 per cent) in the first quarter compared with the fourth quarter. </seg></tuv>
+<tuv xml:lang="et"><seg>Hoolimata lühemast kvartalist kasvas puhas intressitulu 2013. aasta neljanda kvartaliga võrreldes 0,1 miljoni euro (0,2%) võrra. </seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>Excluding the shorter quarter effect net interest income increased by more than 2 per cent supported by increased base rates and decreased funding expenses. </seg></tuv>
+<tuv xml:lang="et"><seg>Kvartalite pikkuse erinevust arvesse võttes oli kasv enam kui 2%. </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net commission income decreased by EUR 0.9m (5 per cent) mainly due to seasonally lower card payment commissions. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas teenustasutulu vähenes kvartaliga 0,9 miljoni euro võrra (5%), peamiselt hooajaliselt vähenenud kaardimaksete tulude tõttu. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Often volatile net gains and losses decreased by EUR 1.1m. Net insurance revenues decreased by EUR 0.4m influenced by seasonality. </seg></tuv>
+<tuv xml:lang="et"><seg>Sageli volatiilsed tulud finantsinstrumentidelt vähenesid 1,1 miljoni euro võrra. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other income decreased by EUR 1.9m mostly due to new portfolio of certain operating lease contracts taken into account in the fourth quarter. </seg></tuv>
+<tuv xml:lang="et"><seg>Muud tulud vähenesid 1,9 miljoni euro võrra peamiselt teatud kasutusrendi lepingute mahu suurenemise tõttu eelmise aasta neljandas kvartalis. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Expenses decreased by 17 per cent (EUR 6.4m) compared with the fourth quarter. </seg></tuv>
+<tuv xml:lang="et"><seg>Võrreldes 2013. aasta neljanda kvartaliga vähenesid kulud 6,4 miljoni euro võrra (17%). </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The decrease was supported by decreased provisions for compensation programs, lower intra Swedbank Group expenses, new portfolio of operating lease that increased depreciation expenses in the fourth quarter and by increased cost efficiency. </seg></tuv>
+<tuv xml:lang="et"><seg>Kulude vähenemist toetasid väiksemad eraldised tulemustasuprogrammide katteks, grupisiseste kulude vähenemine ja väiksemad amortisatsioonikulud võrreldes neljandas kvartalis kasutusrendi mahu suurenemisel kasvanud kuludega. Samuti vähenesid kulud kasvanud efektiivsuse tõttu. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tax expenses decreased by EUR 10.8m compared with dividend income tax reserves made in the fourth quarter 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Maksukulud vähenesid 2013. aasta neljandas kvartalis tehtud dividendide tulumaksu reserviga võrreldes 10,8 miljoni euro võrra. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>From 2014, Swedbank Group will introduce a dividend policy for its Baltic banking subsidiaries to equal 60% of profit. </seg></tuv>
+<tuv xml:lang="et"><seg>2014. aastast kehtib Swedbanki grupi Balti panganduse tütarettevõtetele uus dividendipoliitika, mille kohaselt dividendide osakaal kasumist on 60%. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Dividends will be paid based on the profit generated from 1 January 2014. </seg></tuv>
+<tuv xml:lang="et"><seg>Dividende makstakse alates 1. jaanuarist 2014 teenitava kasumi põhjal. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The first dividends according to the new dividend policy will be paid out in the first quarter 2015 but the expected corporate income tax charge will be counted as starting from the first quarter 2014 as a deferred tax liability. </seg></tuv>
+<tuv xml:lang="et"><seg>Esimesed uue dividendipoliitika alusel arvestatavad dividendid makstakse välja 2015. aasta esimeses kvartalis, ent alates 2014. aasta esimesest kvartalist kantakse Eestis tekkiv oodatav ettevõtte tulumaks edasilükkunud tulumaksukohustuste alla. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The deferred tax liability amounted to EUR 6m for Estonia in the first quarter – most of it was accounted by Swedbank AB (publ). </seg></tuv>
+<tuv xml:lang="et"><seg>Esimeses kvartalis oli edasilükkunud tulumaksukohustus 6 miljonit eurot, suurem osa sellest võeti arvele Swedbank AB (publ) poolt. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Volumes </seg></tuv>
+<tuv xml:lang="et"><seg>Mahud </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>In the first quarter lending volumes decreased by 1.5 per cent compared with the fourth quarter 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Esimese kvartali laenumaht vähenes 2013. aasta neljanda kvartaliga võrreldes 1,5%. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The decrease is attributable to a slow down in new sales at the beginning of the year. </seg></tuv>
+<tuv xml:lang="et"><seg>Languse põhjustas uue laenumüügi aeglustumine aasta alguses. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Deposit portfolio was down by 1.0 per cent during the first quarter after a seasonal peak of corporate deposits in the fourth quarter. </seg></tuv>
+<tuv xml:lang="et"><seg>Hoiuste maht vähenes esimeses kvartalis 1,0% võrreldes 2013. aasta neljanda kvartaliga, mil ettevõtete hoiused olid hooajaliselt kõige kõrgemal tasemel. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit and asset quality </seg></tuv>
+<tuv xml:lang="et"><seg>Varade kvaliteet </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net credit recoveries amounted to EUR 1.1m in the first quarter compared with EUR 15.7m net recoveries in the fourth quarter 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Esimese kvartali laenukahjumid olid -1,1 miljonit eurot võrreldes -15,7 miljoni euroga 2013. aasta neljandas kvartalis. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Both private and corporate portfolio generated the recoveries. </seg></tuv>
+<tuv xml:lang="et"><seg>Vähenesid nii ettevõtete kui eraisikute laenukahjumite eraldised. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Risk weights for small and medium size enterprises decreased significantly in the first quarter 2014 as a result of regulatory changes in the framework of Basel III. </seg></tuv>
+<tuv xml:lang="et"><seg>Väike- ja keskmise suurusega ettevõtete riskikaal vähenes esimeses kvartalis märkimisväärselt, kuna muutusid Baseli III raamistikus sätestatud regulatiivsed nõuded. </seg></tuv>
+
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>January – March 2014</seg></tuv>
+<tuv xml:lang="et"><seg>Jaanuar – märts 2014 </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Compared with January – March 2013 </seg></tuv>
+<tuv xml:lang="et"><seg>Võrreldes eelmise aasta sama perioodiga </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Result </seg></tuv>
+<tuv xml:lang="et"><seg>Finantstulemused </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS reported a profit of EUR 49.5m for the first three months 2014, slightly up from EUR 49.2m in the first three months 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki 2014. aasta kolme esimese kuu puhaskasum oli 49,5 miljonit eurot, mis on veidi enam kui 49,2 miljonit eurot 2013. aasta esimesel kolmel kuul. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Increased revenues and decreased expenses supported the result while decreased net credit recoveries counterbalanced the positive effects. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhaskasumi kasvu toetasid kasvanud tulud ja vähenenud kulud, kuid krediidikahjumite tagasihoidlikum vähenemine tasakaalustas positiivsed mõjud. </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>The total income increased by EUR 4.4m (6 per cent) in the first three months 2014 influenced mostly by increased net interest income and improved insurance result. </seg></tuv>
+<tuv xml:lang="et"><seg>2014. aasta kolme esimese kuu tulud kokku kasvasid 4,4 miljoni euro võrra (6%) peamiselt suurenenud puhta intressitulu ja paranenud kindlustustulemuse tõttu. </seg></tuv>
+
+ </tu><tu>
+      <tuv xml:lang="en"><seg>The net interest income increased by 7 per cent (EUR 3.2m) to EUR 48.0m in the first three months 2014 compared with the same period a year ago due to decreased interest expenses influenced by increased share of deposits and low deposit rates. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas intressitulu kasvas 2014. aasta esimese kolmel kuul võrreldes eelmise aasta sama perioodiga 7% võrra (3,2 miljonit eurot) 48,0 miljoni euroni. Kasvu põhjuseks on kasvanud hoiuste osakaalu ja madalamate hoiuste intressimäärade toel vähenenud intressikulud. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The net interest income started to increase from the second half of 2013 and is expected to improve further in coming quarters. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas intressitulu hakkas kasvama 2013. aasta teisel poolel ja eeldatavalt jätkub kasv ka järgnevates kvartalites. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net commission income increased by EUR 0.2m (1 per cent) compared with the first three months 2013 mostly supported by increased securities net fees. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas teenustasutulu kasvas 2013. aasta kolme esimese kuuga võrreldes 0,2 miljoni euro (1%) võrra, peamiselt tänu suurenenud väärtpaberite tasudele. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The net commission income increase was low because of extra card commission expenses in 2014. </seg></tuv>
+<tuv xml:lang="et"><seg>Kasvu vähendasid 2014. aastal tasutud täiendavad kaartide komisjonikulud. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net insurance income increased by EUR 1.0m (12 per cent) compared with modest result in the first three months 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Puhas kindlustustulu kasvas tagasihoidliku 2013. aasta kolme esimese kuu tulemusega võrreldes 1,0 miljoni euro (12%) võrra. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other income increased by EUR 1.7m mostly due to increased intra Swedbank Group revenues and new portfolio of operating lease. </seg></tuv>
+<tuv xml:lang="et"><seg>Muud tulud kasvasid 1,7 miljoni euro võrra kasvanud Swedbanki Grupi siseste tulude ja suurenenud kasutusrendiportfelli tõttu. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Expenses decreased by 2 per cent (EUR 0.5m) compared with the first three months 2013 despite new portfolio of operating lease that increased depreciation expenses. </seg></tuv>
+<tuv xml:lang="et"><seg>Kulud kokku vähenesid 2013. aasta kolme esimese kuuga võrreldes 0,5 miljoni euro (2%) võrra hoolimata lisandunud kasutusrendi mahust, mille tulemusel suurenesid amortisatsioonikulud. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Both staff and other expenses decreased driven by implemented measures to increase efficiency. </seg></tuv>
+<tuv xml:lang="et"><seg> Nii palga- kui muud kulud vähenesid rakendatud efektiivsuse parandamise meetmete tulemusena. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tax expenses increased by EUR 1.4m compared with the first three months 2013 driven by introduced Swedbank Group’s dividend policy. </seg></tuv>
+<tuv xml:lang="et"><seg>Tulenevalt uuest Swedbanki Grupi tütarettevõtete dividendipoliitikast kasvasid maksukulud eelmise aasta sama perioodiga võrreldes 1,4 miljoni euro võrra. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Volumes </seg></tuv>
+<tuv xml:lang="et"><seg>Mahud </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank’s lending volumes decreased by 0.4 per cent (EUR 24m) year over year. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki laenumahud vähenesid eelmise aasta märtsi lõpuga võrreldes 0,4% võrra (24 miljonit eurot). </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The small decrease is attributable to a slow down in new sales at the beginning of the year. </seg></tuv>
+<tuv xml:lang="et"><seg>Väikese languse põhjuseks on uue laenumüügi aeglustumine käesoleva aasta alguses. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank’s Estonian market share in lending was 39.0 per cent on 31 March 2014 compared with 39.7 per cent on 31 March 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki laenude turuosa oli 2014. aasta 31. märtsi seisuga 39,0%, võrreldes 39,7%-ga 2013. aasta märtsi lõpus. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Deposit volumes increased by 5.8 per cent (EUR 321m) year over year. </seg></tuv>
+<tuv xml:lang="et"><seg>Hoiuste maht suurenes 2013. aasta märtsi lõpuga võrreldes 5,8% (321 miljonit eurot). </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The loan-to-deposit ratio decreased to 102 per cent (108 per cent as of 31 March 2013). </seg></tuv>
+<tuv xml:lang="et"><seg>Laenude-hoiuste suhtarv alanes 102 protsendile (2013. aasta märtsi lõpu sama näitaja oli 108%). </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank Estonia’s market share for deposits was 43.5 per cent on 31 March 2014 compared with 45.5 per cent on 31 March 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki hoiuste turuosa oli 2014. aasta 31. märtsi seisuga 43,5% võrreldes 45,5%-ga 2013. aasta märtsi lõpus. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit and asset quality </seg></tuv>
+<tuv xml:lang="et"><seg>Varade kvaliteet</seg></tuv> 
+</tu><tu>
+      <tuv xml:lang="en"><seg>Net credit recoveries amounted to EUR 1.1m in the first three months 2014 compared with EUR 6.4m during the same period a year ago. </seg></tuv>
+<tuv xml:lang="et"><seg>2014. aasta kolme esimese kuu laenukahjumid olid -1,1 miljon eurot võrreldes -6,4 miljoni euroga 2013. aasta samal perioodil. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The credit quality in lending portfolios has improved to a level that impaired loans will continue to decrease in 2014 at slower pace. </seg></tuv>
+<tuv xml:lang="et"><seg>Laenuportfellide krediidikvaliteet on paranenud sellisele tasemele, et 2014.aastal jätkab probleemsete laenude maht kahanemist aeglasemas tempos. </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Note 1 Accounting policies</seg></tuv>
+<tuv xml:lang="et"><seg>Lisa 1 Raamatupidamispõhimõtted </seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>These interim report condensed financial statements are prepared in accordance with IAS 34 Interim financial reporting. </seg></tuv>
+<tuv xml:lang="et"><seg>Käesolev lühendatud vahearuanne on koostatud kooskõlas rahvusvahelise raamatupidamisstandardiga IAS 34 Vahefinantsaruandlus. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Several new and revised IFRS and interpretations by IFRIC have not had any effect on the financial position, results or disclosures of Swedbank Estonia. </seg></tuv>
+<tuv xml:lang="et"><seg>Uued ja redigeeritud IFRS ja IFRIC interpretatsioonid ei ole Swedbanki Eesti finantstulemustele mõju avaldanud. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The accounting principles applied in the interim report are the same as those applied in the preparation of the Annual Report for 2013.These condensed financial statements should be read in conjunction with the annual financial statements for the year ended 31 December 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Lühendatud vahearuande koostamisel rakendatud arvestuspõhimõtted kattuvad 31. detsembril 2013. aastal lõppenud majandusaasta aruandes kasutatud arvestuspõhimõtetega ning aruannet tuleks lugeda koos 31. detsembril 2013. aastal lõppenud majandusaasta aruandega. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Note 2 Critical accounting estimates</seg></tuv>
+<tuv xml:lang="et"><seg>Lisa 2 Olulised raamatupidamislikud hinnangud ja prognoosid </seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank uses various estimates and judgments about the future to determine the value of certain assets and liabilities. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank teeb erinevaid prognoose ja oletusi tuleviku kohta selleks, et määrata teatavate varade ja kohustuste väärtusi. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The most important assumptions in terms of amount are made with regard to provisions for loan losses. </seg></tuv>
+<tuv xml:lang="et"><seg>Mahu mõistes on kõige olulisemad laenukahjumite osas tehtud hinnangud. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Provisions for loan losses </seg></tuv>
+<tuv xml:lang="et"><seg>Laenukahjumite provisjon </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>For loans that have been identified as impaired as well as portfolios of loans with similar credit terms affected by a loss event, assumptions are made as to when in the future the cash flows will be received as well as their size. </seg></tuv>
+<tuv xml:lang="et"><seg>Allahinnatud mitteteenivate laenude (ingl. k. impaired loans) ja kahjujuhtumi poolt mõjutatud sarnaste tingimustega laenuportfelli kohta tehakse oletusi, millal ja millises suuruses laekub nendega seotud rahavoog. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Provisions for loan losses are made for the difference between the present value of these projected cash flows and the claims’ carrying amount. </seg></tuv>
+<tuv xml:lang="et"><seg>Provisjonide aluseks on erinevus projekteeritud tulevikurahavoogude ja bilansilise jääkmaksumuse vahel. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Decisions are therefore based on various estimates and management’s judgments about current market conditions. </seg></tuv>
+<tuv xml:lang="et"><seg>Otsused provisjonide kohta baseeruvad seetõttu erinevatel arvutustel ja juhtkonna hinnangutel hetke turutingimustele. </seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Portfolio provisions are based on loss estimates made in accordance with capital adequacy rules. </seg></tuv>
+<tuv xml:lang="et"><seg>Portfellipõhised allhindlused põhinevad kapitali adekvaatsuse arvutustes leitud oodataval kahjul. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Note 3 Capital adequacy</seg></tuv>
+<tuv xml:lang="et"><seg>Lisa 3 Kapitali adekvaatsus </seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank uses IRB (Internal ratings based) method to calculate capital requirement for credit risk and standardized method for market and operational risks. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank kasutab kapitalinõude arvutamisel sisereitingute meetodit krediidiriski ja standardmeetodit turu- ja operatsiooniriskide arvutamisel. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Companies included in capital adequacy calculation </seg></tuv>
+<tuv xml:lang="et"><seg>Kapitali adekvaatsuse arvutamisse kaasatud Swedbank AS konsolideerimisgrupi ettevõtted </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS (Eesti) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank Support OÜ </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank Support OÜ </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank Life Insurance SE </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank Life Insurance SE 
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank Liising AS</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank Liising AS </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank P&C Insurance AS </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank P&C Insurance AS </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The Swedbank insurance companies are not included according to the Basel 2 capital adequacy rules. </seg></tuv>
+<tuv xml:lang="et"><seg>* Krediidiasutuste usaldusnormatiivide arvutamise eeskirja Basel II kohaselt ei ole grupi kindlustusseltse kaasatud. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital base </seg></tuv>
+<tuv xml:lang="et"><seg>Omavahendid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The capital base serves as a buffer against the losses that can arise from risks to which Swedbank is exposed. </seg></tuv>
+<tuv xml:lang="et"><seg>Omavahendid on puhvriks kahjude puhul, mis võivad tekkida Swedbanki poolt võetud riskide tõttu. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Bank’s ability to sustain large losses is also to a large extent dependent on the strength of the income statement but also on more qualitative factors such as risk management capabilities and internal governance and control. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbanki võime kanda suuri kahjusid sõltub suures osas kasumiaruande tugevusest, ent ka kvalitatiivsematest teguritest nagu riskijuhtimisvõimekus ning sisejuhtimine ja -kontroll. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirement for credit risks </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriskide kapitalinõuded </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit risk refers to the risk that a counterpart is incapable of meeting its obligations and pledged assets do not cover the claims. </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidirisk väljendab ohtu, et vastaspool ei suuda oma kohustusi täita ja lepingu tagatiseks olevatest varadest ei piisa nõuete rahuldamiseks. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit risk includes concentration risk that includes large individual exposures as well as significant exposures to groups of counterparts whose likelihood of default is driven by common underlying factors, such as the economy, sector, geography, instrument type or other. </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriski alla kuulub ka kontsentratsioonirisk, mille puhul ähvardab riski keskmesse sattumine kas üksikisikuid või vastaspoolte rühmi, kelle lepingurikkumise tõenäosus on seotud selliste üldiste teguritega nagu majanduse või tööstusharu olukord, geograafiline asend, finantsinstrumendi liik vms. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit risk forms the largest part of the total outstanding risk for Swedbank and is inherent in almost all regular credit products such as loans, leasing, credit cards, guarantees and derivatives. </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidirisk moodustab suurima osa Swedbanki koguriskist ja see kaasneb peaaegu kõigi tavapäraste krediiditoodetega – laenude, liisingu, krediitkaartide, garantiide ja tuletisinstrumentidega. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Market risks </seg></tuv>
+<tuv xml:lang="et"><seg>Tururiskid </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Exposure to market risks arises from positions that are affected by changes in market risk factors: interest rates, foreign exchange rates and equity prices (or other relevant risk factors such as implicit volatility for options). </seg></tuv>
+<tuv xml:lang="et"><seg>Tururiskid tulenevad positsioonidest, mida mõjutavad omakorda muutused tururiski tegurites, nt intressimäärades, valuutakurssides ja aktsiahindades (või muud riskitegurid nagu optsioonide kaudne volatiilsus). </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>For capital requirement calculation purposes, the standardized approach has been implemented under Basel 2 capital adequacy rules. </seg></tuv>
+<tuv xml:lang="et"><seg>Tururiski kapitalinõuete arvutamiseks on krediidiasutuste usaldusnormatiivide arvutamise eeskirja Basel II raames võetud kasutusele standardmeetod. </seg></tuv>
+
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Operational risks </seg></tuv>
+<tuv xml:lang="et"><seg>Operatsioonirisk </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Operational risk stands for any undesirable impact to business objectives, including direct or indirect financial loss or loss of confidence, occurring in day-to-day business operation, resulting from errors or omissions in internal procedures or systems, or due to human errors or fraud, or from external events. </seg></tuv>
+
+<tuv xml:lang="et"><seg>Operatsioonirisk tähendab ärieesmärkidele avalduvat negatiivset mõju, sh otsest või kaudset finantskahju või usalduse kaotust. Operatsioonirisk tekib igapäevase majandustegevuse käigus, tuleneb sisemiste protseduuride või süsteemide vigadest või tõrgetest, inimlikest eksimustest, pettusest või välistest sündmustest. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>For defining capital requirement to cover unexpected losses from operational risk, Swedbank has implemented the standardized approach under Basel 2 capital adequacy rules in Estonia. </seg></tuv>
+<tuv xml:lang="et"><seg>Operatsiooniriskist tingitud ootamatute kahjude kandmiseks vajalike kapitalinõuete arvutamiseks on Swedbank Eestis rakendanud krediidiasutuste usaldusnormatiivide arvutamise eeskirja Basel II standardmeetodit. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>The required methods have been implemented, such as loss database, risk self-assessment and business contingency planning. </seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank on kasutusele võtnud nõutavad meetodid, mille hulka kuuluvad kahjude andmebaas, riskidega seotud enesehinnang ja talituspidevuse planeerimine. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Changes in 2014 </seg></tuv>
+<tuv xml:lang="et"><seg>Muutused 2014. aasta aruannetes </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>There are some changes in capital adequacy reporting from 2014 as a result of regulatory changes in the framework of Basel III. </seg></tuv>
+<tuv xml:lang="et"><seg>Seoses Baseli III raamistikus sätestatud regulatiivsete nõuete muutusega on alates 2014. aastast muutunud kapitali adekvaatsuse raporteerimine. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Reporting as of 31 March 2014 is according to current regulations (Basel III). </seg></tuv>
+<tuv xml:lang="et"><seg>2014. aasta näitajad on kajastatud kehtivatele nõuetele kohaselt (Basel III). </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Comparative figures as of 2013 are according to previous regulation (Basel II). </seg></tuv>
+<tuv xml:lang="et"><seg>2013. aasta vastavad näitajad on kajastatud sel perioodil kehtinud nõuete kohaselt (Basel II). </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>It is not required to use transitional minimum capital level in capital adequacy calculation starting from 2014. </seg></tuv>
+<tuv xml:lang="et"><seg>Alates 2014. aastast ei ole nõutav üleminekuperioodi miinumumomavahendite kasutamine kapitali adekvaatsuse määra arvutamisel. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>As a result capital adequacy ratios increase by more than 1.2 times. </seg></tuv>
+<tuv xml:lang="et"><seg>See suurendab Swedbanki kapitali adekvaatsuse määra rohkem kui 1,2 korda. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>There are more changes in the regulations but the effect to capital adequacy ratio is minor. </seg></tuv>
+<tuv xml:lang="et"><seg>Teiste regulatiivsete nõuete muutuse mõju kapitali adekvaatsuse määrale oli ebaoluline. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>In addition, increased retained earnings supported the ratio increase in the first quarter. </seg></tuv>
+<tuv xml:lang="et"><seg>Täiendavalt suurenes 2014. aasta esimese kvartali kapitali adekvaatsuse määr eelmise aasta jaotamata kasumi summa lisandumise tõttu. </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg> In total the capital adequacy ratio increased to 42.8 per cent in the first quarter 2014 compared with 27.4 per cent in the fourth quarter 2013. </seg></tuv>
+<tuv xml:lang="et"><seg>Kokkuvõttes suurenes kapitali adekvaatsuse määr 2014. aasta esimese kvartali lõpus 42,8%-ni võrreldes 27,4%-ga 2013. aasta lõpus. </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital base </seg></tuv>
+<tuv xml:lang="et"><seg>Omavahendid </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Primary capital (Tier 1) </seg></tuv>
+<tuv xml:lang="et"><seg>Esmased omavahendid (Tier 1) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Share capital </seg></tuv>
+<tuv xml:lang="et"><seg>Aktsiakapital </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Share premium </seg></tuv>
+<tuv xml:lang="et"><seg>Aktsiakapital </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Reserves </seg></tuv>
+<tuv xml:lang="et"><seg>Reservid </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Retained earnings from previous periods </seg></tuv>
+<tuv xml:lang="et"><seg>Eelmiste perioodide jaotamata kasum </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Less: Intangible assets </seg></tuv>
+<tuv xml:lang="et"><seg>Immateriaalne vara (negatiivne väärtus) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total Tier 1 </seg></tuv>
+<tuv xml:lang="et"><seg>Esmased omavahendid (Tier 1) kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Supplementary capital (Tier 2) </seg></tuv>
+<tuv xml:lang="et"><seg>Täiendavad omavahendid (Tier 2) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Subordinated debt </seg></tuv>
+<tuv xml:lang="et"><seg>Allutatud laen </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Value adjustments and provisions exceeding the expected loss </seg></tuv>
+<tuv xml:lang="et"><seg>Oodatavat kahju ületavad allahindlused ja korrigeerimised </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Supplementary capital (Tier 2) </seg></tuv>
+<tuv xml:lang="et"><seg>Täiendavad omavahendid (Tier 2) kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Own funds, total </seg></tuv>
+<tuv xml:lang="et"><seg>Brutoomavahendid kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Deductions from own funds </seg></tuv>
+<tuv xml:lang="et"><seg>Mahaarvamised omavahenditest </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Own funds, net </seg></tuv>
+<tuv xml:lang="et"><seg>Netoomavahendid kokku </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS, Estonia – Interim report January – March 2014</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS (Eesti) Vahearuanne jaanuar – märts 2014 </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirements and risk exposure </seg></tuv>
+<tuv xml:lang="et"><seg>Kapitalinõuded ja riskiga kaalutud varad </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirement for credit risks, standardized approach </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriskide kapitalinõuded, standardmeetod </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital requirement for credit risks, standardized approach </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriskide kapitalinõuded, standardmeetod </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirement for credit risks, internal ratings based approach </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriskide kapitalinõuded, sisereitingute meetod </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit institutions and investment firms </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiasutused ja investeerimisühingud </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other companies </seg></tuv>
+<tuv xml:lang="et"><seg>Muud äriühingud </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Other items </seg></tuv>
+<tuv xml:lang="et"><seg>Muud varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Retail exposures </seg></tuv>
+<tuv xml:lang="et"><seg>Jaenõuded </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital requirement for credit risk </seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriski kapitalinõuded kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirement for market risks</seg></tuv>
+<tuv xml:lang="et"><seg>Tururiskide kapitalinõuded  </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Foreign exchange risk</seg></tuv>
+<tuv xml:lang="et"><seg>Valuutariski kapitalinõuded </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Interest rate risk </seg></tuv>
+<tuv xml:lang="et"><seg>Intressipositsiooniriski kapitalinõuded </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Equity position </seg></tuv>
+<tuv xml:lang="et"><seg>Aktsiapositsiooniriski kapitalinõuded </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital requirement for market risk </seg></tuv>
+<tuv xml:lang="et"><seg>Tururiskide kapitalinõuded kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirement for operational risks </seg></tuv>
+<tuv xml:lang="et"><seg>Operatsiooniriski kapitalinõuded </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital requirement for operational risk, standardized approach </seg></tuv>
+<tuv xml:lang="et"><seg>Operatsiooniriski standardmeetod </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital requirement for operational risk </seg></tuv>
+<tuv xml:lang="et"><seg>Operatsiooniriski kapitalinõuded kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Credit value adjustment (CVA) </seg></tuv>
+<tuv xml:lang="et"><seg>CVA</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital requirement </seg></tuv>
+<tuv xml:lang="et"><seg>Kapitalinõuded kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Transitional minimum of own funds </seg></tuv>
+<tuv xml:lang="et"><seg>Üleminekuperioodi omavahendite miinimum </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital requirement, transition rules </seg></tuv>
+<tuv xml:lang="et"><seg>Üleminekuperioodi kapitalinõuded kokku </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Risk exposure</seg></tuv>
+<tuv xml:lang="et"><seg>Riskiga kaalutud varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Risk exposure amount credit risks</seg></tuv>
+<tuv xml:lang="et"><seg>Krediidiriskide riskiga kaalutud varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Risk exposure amount market risks</seg></tuv>
+<tuv xml:lang="et"><seg>Tururiskide riskiga kaalutud varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Risk exposure amount operational risks</seg></tuv>
+<tuv xml:lang="et"><seg>Operatsiooniriski riskiga kaalutud varad </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Risk exposure amount credit value adjustment</seg></tuv>
+<tuv xml:lang="et"><seg>CVA</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total risk exposure amount</seg></tuv>
+<tuv xml:lang="et"><seg>Riskiga kaalutud varad kokku </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Transitional minimum for adequacy calculation</seg></tuv>
+<tuv xml:lang="et"><seg>Üleminekuperioodi miinimum adekvaatsuse arvutamiseks </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total risk exposure amount for adequacy calculation </seg></tuv>
+<tuv xml:lang="et"><seg>Riskiga kaalutud varad kokku adekvaatsuse arvutamiseks </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Capital ratios </seg></tuv>
+<tuv xml:lang="et"><seg>Kapitali suhtarvud </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tier 1 capital ratio, %* </seg></tuv>
+<tuv xml:lang="et"><seg>Tier 1 suhtarv, %* </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tier 2 capital ratio, %** </seg></tuv>
+<tuv xml:lang="et"><seg>Tier 2 suhtarv, %** </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Total capital adequacy ratio, %</seg></tuv>
+<tuv xml:lang="et"><seg>Kogukapitali adekvaatsuse suhtarv, % </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Tier 1 capital divided by total risk-weighted on and off balance sheet items</seg></tuv>
+<tuv xml:lang="et"><seg>Esmased omavahendid jagatud riskiga kaalutud bilansiliste ja bilansiväliste kirjetega</seg></tuv>
+</tu><tu>  <tuv xml:lang="en"><seg> ** Tier 2 capital divided by total risk-weighted on and off balance sheet items </seg></tuv>
+<tuv xml:lang="et"><seg>** Täiendavad omavahendid jagatud riskiga kaalutud bilansiliste ja bilansiväliste kirjetega </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>General information of Swedbank AS, Estonia</seg></tuv>
+<tuv xml:lang="et"><seg>Üldinformatsioon </seg></tuv>
+
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Company name </seg></tuv>
+<tuv xml:lang="et"><seg>Ettevõtte nimi </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Address </seg></tuv>
+<tuv xml:lang="et"><seg>Aadress </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Registered in </seg></tuv>
+<tuv xml:lang="et"><seg>Registreerinud riik </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Registry code</seg></tuv>
+<tuv xml:lang="et"><seg>Äriregistrikood </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Phone </seg></tuv>
+<tuv xml:lang="et"><seg>Telefon</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Fax</seg></tuv>
+<tuv xml:lang="et"><seg>Faks </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>SWIFT/BIC </seg></tuv>
+<tuv xml:lang="et"><seg>SWIFT/BIC</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>E-mail </seg></tuv>
+<tuv xml:lang="et"><seg>E-post</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Homepage</seg></tuv>
+<tuv xml:lang="et"><seg>Kodulehekülg </seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Auditor</seg></tuv>
+<tuv xml:lang="et"><seg>Audiitor </seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Reporting date </seg></tuv>
+<tuv xml:lang="et"><seg>Bilansikuupäev </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Reporting period </seg></tuv>
+<tuv xml:lang="et"><seg>Aruandlusperiood </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Reporting currency </seg></tuv>
+<tuv xml:lang="et"><seg>Aruandlusvaluuta </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Swedbank AS</seg></tuv>
+<tuv xml:lang="et"><seg>Swedbank AS</seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>Liivalaia 8, Tallinn 15040, Estonia</seg></tuv>
+<tuv xml:lang="et"><seg>Liivalaia 8, Tallinn 15040, Eesti </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>Republic of Estonia</seg></tuv>
+<tuv xml:lang="et"><seg>Eesti Vabariik</seg></tuv> 
+ </tu><tu>
+      <tuv xml:lang="en"><seg>10060701 (Estonian Commercial Register) </seg></tuv>
+<tuv xml:lang="et"><seg>10060701 (Eesti Äriregister) </seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>HABAEE2X</seg></tuv>
+<tuv xml:lang="et"><seg>HABAEE2X</seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>swedbank@swedbank.ee</seg></tuv>
+<tuv xml:lang="et"><seg>swedbank@swedbank.ee</seg></tuv>
+</tu><tu>
+      <tuv xml:lang="en"><seg>www.swedbank.ee</seg></tuv>
+<tuv xml:lang="et"><seg>www.swedbank.ee</seg></tuv>
+ </tu><tu>
+      <tuv xml:lang="en"><seg>AS Deloitte Audit Eesti</seg></tuv>
+<tuv xml:lang="et"><seg>AS Deloitte Audit Eesti</seg></tuv> </tu><tu>
+      <tuv xml:lang="en"><seg>31 March 2014</seg></tuv>
+<tuv xml:lang="et"><seg>31. märts 2014</seg></tuv> 
+ </tu><tu>
+      <tuv xml:lang="en"><seg>1 January 2014 - 31 March 2014 </seg></tuv>
+<tuv xml:lang="et"><seg>1. jaanuar 2014 – 31. märts 2014 </seg></tuv>
+
+</tu><tu>
+      <tuv xml:lang="en"><seg>Euro (EUR), millions </seg></tuv>
+<tuv xml:lang="et"><seg>Euro, miljonites</seg></tuv>
+  </body>
+</tmx>

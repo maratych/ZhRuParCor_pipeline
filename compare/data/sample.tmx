@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<tmx version="1.4">
+<header creationdate="Sat Feb  1 22:07:10 2014"
+          srclang="en"
+          adminlang="en"
+          o-tmf="unknown"
+          segtype="sentence"
+          creationtool="Uplug"
+          creationtoolversion="unknown"
+          datatype="PlainText" />
+<body>
+  <tu>
+    <tuv xml:lang="en"><seg>For once in my life I'm doing a good deed... And it is useless.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Один раз в жизни я делаю хорошее дело... И оно бесполезно.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Let's try something.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Давайте что-нибудь попробуем!</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I have to go to sleep.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Мне пора идти спать.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I have to go to sleep.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я должен ложиться спать.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Today is June 18th and it is Muiriel's birthday!</seg></tuv>
+    <tuv xml:lang="ru"><seg>Сегодня 18 июня, и это день рождения Мюриэл!</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Muiriel is 20 now.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Мюриэл сейчас 20.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>The password is "Muiriel".</seg></tuv>
+    <tuv xml:lang="ru"><seg>Пароль «Muiriel».</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I will be back soon.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я скоро вернусь.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I will be back soon.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Скоро вернусь.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I'm at a loss for words.</seg></tuv>
+    <tuv xml:lang="ru"><seg>У меня нет слов.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I'm at a loss for words.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я не могу подобрать слов.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>This is never going to end.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это никогда не закончится.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I just don't know what to say.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Не знаю, что и сказать.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I just don't know what to say.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я даже не знаю, что сказать...</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>That was an evil bunny.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это был злой кролик.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I was in the mountains.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я был в горах.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I was in the mountains.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я была в горах.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Is it a recent picture?</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это новая фотография?</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Is it a recent picture?</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это недавняя фотография?</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I don't know if I have the time.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я не знаю, будет ли у меня время.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I don't know if I have the time.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я не знаю, есть ли у меня время.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Education in this world disappoints me.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Образование в этом мире меня разочаровывает.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>You're in better shape than I am.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Ты в лучшей форме, чем я.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>You are in my way.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Ты на моем пути.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>This will cost €30.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это будет стоить 30 евро.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I make €100 a day.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я зарабатываю сто евро в день.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I make €100 a day.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я зарабатываю 100 евро в день.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I may give up soon and just nap instead.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я, может, скоро сдамся и вместо этого пойду вздремну.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I may give up soon and just nap instead.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Я наверно скоро прервусь и просто подремлю.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>I may give up soon and just nap instead.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Скоро я могу уступить и немного подремать.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>It's because you don't want to be alone.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это потому, что ты не хочешь быть один.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>That won't happen.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Этого не случится.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>That won't happen.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Это не случится.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Sometimes he can be a strange guy.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Иногда он очень странен.</seg></tuv>
+  </tu>
+  <tu>
+    <tuv xml:lang="en"><seg>Sometimes he can be a strange guy.</seg></tuv>
+    <tuv xml:lang="ru"><seg>Иногда он очень странный парень.</seg></tuv>
+  </tu>
+
+</body>
+</tmx>
