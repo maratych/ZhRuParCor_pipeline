@@ -52,7 +52,7 @@ def compare_list(l1, l2):
           if s2[1] == sent[1]:
             #print("Match!")
             c2 += 1
-    p = float(c1) / cnt
+    p = float(c2) / c1
     r = float(c2) / cnt
     return p, r
 
