@@ -1,0 +1,6 @@
+[submodule "ZhRuParCor"]
+	path = ZhRuParCor
+	url = https://github.com/maratych/ZhRuParCor
+[submodule "skuuper-cleaner"]
+	path = skuuper-cleaner
+	url = git@git.skuuper.com:skuuper/cleaner.git
