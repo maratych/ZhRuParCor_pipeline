@@ -44,6 +44,6 @@ def compare_data(f_orig, f_comp, b_ignore_spaces = True):
 
 if __name__ == '__main__':
     file_golden = 'data/sample.xml'
-    file_compare = 'data/sample.tmx'
+    file_compare = 'data/sample1.tmx'
     res = compare_data(file_golden, file_compare)
     print(res)
