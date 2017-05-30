@@ -1,4 +1,5 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python
+#coding=utf8
 # A script to compare parallel texts in TMX and XML
 # @author @netbug aka Oleg Urzhumtcev
 
@@ -43,7 +44,7 @@ def compare_list(l1, l2):
     c1 = 0
     c2 = 0
     for i, sent in enumerate(l2):	# sent - предложение из "нового" текста
-      cnt += 1
+      cnt +=	 1
       #print(sent[0])
       for s1 in l1:
         # Если нашли такое же входное предложение. Если вход отличается - автоматом ошибка!
@@ -54,8 +55,8 @@ def compare_list(l1, l2):
           if prep_text(s1[1]) == prep_text(sent[1]):
             #print("Match!")
             c2 += 1
-    p = float(c2) / c1
-    r = float(c2) / cnt
+    p = float(c2) / cnt
+    r = float(c2) / len(l1)
     return p, r
 
 def compare_data(f_orig, f_comp, b_ignore_spaces = True):
