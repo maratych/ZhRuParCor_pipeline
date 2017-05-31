@@ -15,7 +15,7 @@ def read_XML(fn):
             grp = []
             for sent in parent:
                 grp.append(sent.text)
-            d.append(reversed(grp))
+            d.append(list(reversed(grp)))
     return langs, d
 
 def read_TMX(fn):
