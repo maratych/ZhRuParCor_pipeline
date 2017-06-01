@@ -8,7 +8,7 @@ import re
 import string
 regex = re.compile('[%s]' % re.escape(string.punctuation + "«»“”，。……-—"))
 
-debug = True
+debug = False
 
 def read_XML(fn):
     d = []
