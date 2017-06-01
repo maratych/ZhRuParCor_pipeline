@@ -1,0 +1,9 @@
+Read 230 lines from 1/idiot_ch1.xml
+Read 225 lines from 1/idiot_ch2.xml
+Read 290 lines from 1/idiot_ch3.xml
+Read 193 lines from 1/idiot_ch4.xml
+Read 415 lines from 1/idiot_ch5.xml
+Read 213 lines from 1/idiot_ch6.xml
+Read 382 lines from 1/idiot_ch7.xml
+Read 358 lines from 1/idiot_ch8.xml
+2306 lines - idiot_all.xml
