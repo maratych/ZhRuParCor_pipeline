@@ -6,7 +6,7 @@
 import lxml.etree as ET
 import re
 import string
-regex = re.compile('[%s]' % re.escape(string.punctuation + "«»“”，。……"))
+regex = re.compile('[%s]' % re.escape(string.punctuation + "«»“”，。……-—"))
 
 debug = True
 
