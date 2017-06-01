@@ -4,6 +4,11 @@
 # @author @netbug aka Oleg Urzhumtcev
 
 import lxml.etree as ET
+import re
+import string
+regex = re.compile('[%s]' % re.escape(string.punctuation + "«»“”，。……"))
+
+debug = True
 
 def read_XML(fn):
     d = []
@@ -37,7 +42,7 @@ def read_file(fn):
     return read_XML(fn) if fn.lower().endswith('.xml') else read_TMX(fn)
 
 def prep_text(s):
-    return s.replace(" ", "").lower() if type(s) == str else s
+    return regex.sub(' ', s).replace(" ", "").lower().strip() if type(s) == str else s
 
 def compare_list(l1, l2):
     cnt = 0
@@ -46,15 +51,25 @@ def compare_list(l1, l2):
     for i, sent in enumerate(l2):	# sent - предложение из "нового" текста
       cnt +=	 1
       #print(sent[0])
+      bFound = False
+      bFnd = False
       for s1 in l1:
         # Если нашли такое же входное предложение. Если вход отличается - автоматом ошибка!
         if prep_text(s1[0]) == prep_text(sent[0]):
+          bFound = True
           c1 += 1
           #print(l2[i][0])
           # Если совпадаем и перевод
           if prep_text(s1[1]) == prep_text(sent[1]):
+            bFnd = True
             #print("Match!")
             c2 += 1
+      if not bFound and debug:
+          print("Not found source sentence: " + sent[0])
+      elif not bFnd and debug:
+          print("Not found translation %s for source sentence %s " % (sent[1], sent[0]))
+    if debug:
+        print("Total sentences in target: %d, source: %d, matching targets %d out of matching sources %d" % (cnt, len(l1), c2, c1))
     p = float(c2) / cnt
     r = float(c2) / len(l1)
     return p, r
